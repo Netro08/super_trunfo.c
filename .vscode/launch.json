@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/wende/OneDrive/Documentos/Projetos/Olamundo",
-      "program": "c:/Users/wende/OneDrive/Documentos/Projetos/Olamundo/build/Debug/outDebug",
+      "cwd": "c:/Users/wende/OneDrive/Documentos/Projetos/Olamundo/trunfo.c",
+      "program": "c:/Users/wende/OneDrive/Documentos/Projetos/Olamundo/trunfo.c/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
